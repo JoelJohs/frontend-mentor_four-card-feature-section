@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GirHub](https://github.com/JoelJohs/frontend-mentor_product-preview-card-component)
+- Solution URL: [GirHub](https://github.com/JoelJohs/frontend-mentor_four-card-feature-section)
 - Live Site URL: [GitHub Pages](https://joeljohs.github.io/frontend-mentor_product-preview-card-component/)
 
 ## My process
